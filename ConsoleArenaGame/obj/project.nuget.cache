@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/5aNR6h1bLFYWF3fkZoxBrOJvpMMg5UcbYIi5gpwCT0i2jdLtsmSZSOUaxG4VfVGl0NX+Pzq0FwBhx08/kNEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\npepe\\OneDrive\\Desktop\\AreanGame\\ConsoleArenaGame\\ConsoleArenaGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\npepe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\npepe\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\npepe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\npepe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
